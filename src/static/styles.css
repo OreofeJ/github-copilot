@@ -59,8 +59,8 @@ section h3 {
 
 /* participant styles */
 .participant {
-  /* Add desired styles here */
-  background-color: #f0f0f0;
+
+  background-color:#f0f0f0;
   border: 1px solid #ddd;
   border-radius: 5px;
   padding: 10px;
